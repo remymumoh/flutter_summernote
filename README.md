@@ -1,11 +1,8 @@
 # Flutter Summernote
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Text Editor in Flutter for Android and iOS to help free write WYSIWYG HTML code based on Summernote 0.8.18 javascript wrapper.
+Rich Text Editor in Flutter for Android and iOS to help free write WYSIWYG HTML code based on Summernote 0.8.20 javascript wrapper.
 
-![demo example](https://github.com/chandrabezzo/flutter_summernote/blob/master/screenshoot/home.png) ![demo example](https://github.com/chandrabezzo/flutter_summernote/blob/master/screenshoot/attach.png)
+<img src="./screenshoot/home.png" width="250" alt="Example Project" /> &nbsp; <img src="./screenshoot/attach.png" width="250" alt="Attach Image Example" />
 
 # NOTICE
 > This package dependent to the [Official WebView Plugin](https://pub.dev/packages/webview_flutter). In this package can't add image, video, or another file using editor toolbar.
