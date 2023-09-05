@@ -19,8 +19,8 @@ To use flutter_summernote dependency by this repository, add the following code 
 ```yaml
     flutter_summernote:
         git:
-            url: https://github.com/Jeferson505/flutter_summernote.git
-            ref: v2.0.1    
+            url: https://github.com/remymumoh/flutter_summernote.git
+            ref: v2.0.0   
 ```
 
 ### iOS
