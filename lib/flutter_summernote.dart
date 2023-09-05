@@ -72,7 +72,7 @@ class FlutterSummernoteState extends State<FlutterSummernote> {
     _page = _initPage(widget.customToolbar, widget.customPopover);
     _hasAttachment = widget.hasAttachment;
 
-    _webViewController = WebViewController();
+    _webViewController ??= WebViewController();
 
     _webViewController!.setJavaScriptMode(JavaScriptMode.unrestricted);
     _webViewController!.addJavaScriptChannel('GetTextSummernote',
