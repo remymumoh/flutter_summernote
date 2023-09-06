@@ -53,7 +53,7 @@ class FlutterSummernoteState extends State<FlutterSummernote> {
   final _imagePicker = ImagePicker();
   late bool _hasAttachment;
 
-  WebViewController? _webViewController;
+  late WebViewController? _webViewController;
 
   void handleRequest(HttpRequest request) {
     try {
